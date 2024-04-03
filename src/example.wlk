@@ -4,3 +4,5 @@ object wollok {
 		return 'I am Wolloktastic!'
 	}
 }
+
+// archivo de ejemplo para configurar cuenta de github
